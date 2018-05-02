@@ -4885,6 +4885,11 @@ button,
 
 /* Add custom utilities here... */
 
+h1 {
+  font-size: 64px;
+  font-size: 4rem;
+}
+
 @media (min-width: 576px) {
   .sm\:list-reset {
     list-style: none;

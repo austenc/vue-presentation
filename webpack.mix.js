@@ -14,6 +14,7 @@ mix.js('resources/assets/js/app.js', 'public/js')
     ]
   })
   .purgeCss()
+  .browserSync('vue.test')
 
 if (mix.inProduction()) {
     mix.version()
