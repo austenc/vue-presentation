@@ -172,7 +172,7 @@
             <h3 class="text-grey-dark my-4 mb-8">
                 Template and behavior in a single <span class="text-vue">.vue</span> file
             </h3>
-            <h3 class="mx-auto text-grey text-uppercase text-left block w-1/2 max-w-xl">MyComponent.vue</h3>            
+            <h4 class="mx-auto text-grey text-uppercase text-left block w-1/2 max-w-xl font-mono">MyComponent.vue</h4>            
             <code-block v-pre escape="false">
                 &lt;template&gt;
                     &lt;div&gt;...&lt;/div&gt;
