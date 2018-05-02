@@ -26,6 +26,19 @@ export default {
             slideClass: 'animated block w-full h-full'
         }
     },
+
+    computed: {
+        magic() {
+            return String.fromCodePoint(0x1F47B) + this.sparkle + this.sparkle 
+                + String.fromCodePoint(0x1F52E) + this.sparkle + this.sparkle
+
+        }, 
+
+        sparkle() {
+            return String.fromCodePoint(0x2728)
+        }
+    },
+
     methods: {
 
         navigate(event) {
@@ -88,6 +101,8 @@ export default {
 
     created() {
         document.addEventListener('keyup', this.navigate)
+        console.warn('Step 1: Use Vue.js')
+        console.warn('Step 2: Magic! ' + this.magic)
     },
 
     destroyed() {

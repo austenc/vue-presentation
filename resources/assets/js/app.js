@@ -18,6 +18,7 @@ window.Vue = require('vue');
 Vue.component('slideshow', require('./components/Slideshow.vue'));
 Vue.component('slide', require('./components/Slide.vue'));
 Vue.component('slide-transition', require('./components/SlideTransition.vue'));
+Vue.component('code-block', require('./components/CodeBlock.vue'));
 
 const app = new Vue({
     el: '#app'
