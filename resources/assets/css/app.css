@@ -10,6 +10,15 @@
 
 /* Add custom utilities here... */
 
-h1 {
-    font-size: 4rem;
+a {
+    color: #6CB88B;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.text-vue {
+    color: #6CB88B;
 }

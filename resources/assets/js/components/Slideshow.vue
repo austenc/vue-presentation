@@ -13,6 +13,10 @@
 <script>
 import 'animate.css/animate.min.css'
 export default {
+    props: {
+        startOn: { default: 1 }
+    },
+
     data() {
         return {
             debug: false,
@@ -68,8 +72,9 @@ export default {
                 this.slides.push(child)
             }
         })
-
-        this.currentSlide = this.slides[0];
+    
+        this.currentIndex = Math.max(1, this.startOn);
+        this.currentSlide = this.slides[this.currentIndex - 1];
         this.currentSlide.active = true;
     },
 
