@@ -1,6 +1,6 @@
 <template>
     <slide-transition :enter="enter" :exit="exit">
-        <div class="slide" v-if="active">
+        <div class="slide flex flex-col items-center justify-center" v-if="active">
             <slot></slot>
         </div>
     </slide-transition>
@@ -28,7 +28,6 @@ export default {
         position: absolute;
         width: 100%;
         height: 100%;        
-        padding-top: 4rem;
         text-align: center;
         font-size: 2rem;
     }
