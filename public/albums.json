@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Ramones",
+        "artist": "Ramones",
+        "url": "https://www.amazon.com/Ramones/dp/B00FW5MOSO",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61Fv75Pdd1L._SS500.jpg",
+        "thumbnail_image": "https://i.imgur.com/6xFHeyS.jpg"
+    },
+    {
+        "title": "Nonagon Infinity",
+        "artist": "King Gizzard & The Lizard Wizard",
+        "url": "https://www.amazon.com/Nonagon-Infinity-Explicit-Gizzard-Lizard/dp/B01CFBDW6A",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61nIKRb7oJL._SS500.jpg",
+        "thumbnail_image": "https://i.imgur.com/6xFHeyS.jpg"
+    },
+    {
+        "title": "#1 Record",
+        "artist": "Big Star",
+        "url": "www.amazon.com/1-Record-Big-Star/dp/B01B6XTFB4",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/41BhXbnM-cL._SS500.jpg",
+        "thumbnail_image": "https://i.imgur.com/6xFHeyS.jpg"
+    },
+    {
+        "title": "Exile on Main Street",
+        "artist": "The Rolling Stones",
+        "url": "www.amazon.com/Exile-Main-Street-2010-Re-Mastered/dp/B003L5BRXK",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61E9w8J8haL._SS500.jpg",
+        "thumbnail_image": "https://i.imgur.com/6xFHeyS.jpg"
+    },
+    {
+        "title": "Behind the Music",
+        "artist": "The Soundtrack of Our Lives",
+        "url": "www.amazon.com/Behind-Music-Soundtrack-Our-Lives/dp/B00006JKCK",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/41AH2MV6RVL.jpg",
+        "thumbnail_image": "https://i.imgur.com/6xFHeyS.jpg"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "id":1,
+        "name":"Galapagos tortoise",
+        "scientific_name":"Geochelone elephantopus",
+        "photo":"https://robohash.org/evenietaliquamincidunt.png?size=200x200",
+        "description":"Multi-tiered 24/7 flexibility"
+    },
+    {
+        "id":2,
+        "name":"Green-winged macaw",
+        "scientific_name":"Ara chloroptera",
+        "photo":"https://robohash.org/etassumendavoluptas.png?size=200x200",
+        "description":"Stand-alone national structure"
+    },
+    {
+        "id":3,
+        "name":"Lion, mountain",
+        "scientific_name":"Felis concolor",
+        "photo":"https://robohash.org/blanditiisuterror.png?size=200x200",
+        "description":"Stand-alone scalable Graphical User Interface"
+    },
+    {
+        "id":4,
+        "name":"Goldeneye, common",
+        "scientific_name":"Bucephala clangula",
+        "photo":"https://robohash.org/suntlaudantiumea.png?size=200x200",
+        "description":"Function-based hybrid product"
+    },
+    {
+        "id":5,
+        "name":"Tenrec, tailless",
+        "scientific_name":"Tenrec ecaudatus",
+        "photo":"https://robohash.org/vitaeperspiciatisqui.png?size=200x200",
+        "description":"Team-oriented reciprocal archive"
+    },
+    {
+        "id":6,
+        "name":"Dragon, frilled",
+        "scientific_name":"Chlamydosaurus kingii",
+        "photo":"https://robohash.org/facilismollitiasaepe.png?size=200x200",
+        "description":"Configurable leading edge challenge"
+    },
+    {
+        "id":7,
+        "name":"Water moccasin",
+        "scientific_name":"Agkistrodon piscivorus",
+        "photo":"https://robohash.org/accusamuserrordignissimos.png?size=200x200",
+        "description":"Customizable fault-tolerant capability"
+    },
+    {
+        "id":8,
+        "name":"Carpet python",
+        "scientific_name":"Morelia spilotes variegata",
+        "photo":"https://robohash.org/nonasperioresharum.png?size=200x200",
+        "description":"Open-source motivating internet solution"
+    },
+    {
+        "id":9,
+        "name":"Genet, small-spotted",
+        "scientific_name":"Genetta genetta",
+        "photo":"https://robohash.org/essererumut.png?size=200x200",
+        "description":"Fully-configurable stable workforce"
+    },
+    {
+        "id":10,
+        "name":"Eland, common",
+        "scientific_name":"Taurotagus oryx",
+        "photo":"https://robohash.org/possimuspraesentiumeum.png?size=200x200",
+        "description":"Focused radical encryption"
+    }
+]

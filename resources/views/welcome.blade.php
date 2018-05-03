@@ -70,7 +70,6 @@
             </code-block>
             <code-block lang="javascript">
                 var app = new Vue({
-                    el: '#app',
                     data: {
                         href: 'https://example.com'
                     }
@@ -96,7 +95,6 @@
             </code-block>
             <code-block lang="javascript" v-pre>
                 var app = new Vue({
-                    el: '#app',
                     data: {
                         something: true,
                         listOfThings: [
@@ -116,7 +114,6 @@
             </code-block>
             <code-block lang="javascript" v-pre>
                 var app = new Vue({
-                    el: '#app',
                     data: {
                         count: 0,
                     },
